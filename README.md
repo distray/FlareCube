@@ -1,2 +1,2 @@
 # FlareCube
-FlareCube | Fully optimized, Cloud-based Server Hosting.
+FlareCube | The official FlareCube Network developer-interface and repos.

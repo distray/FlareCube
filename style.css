@@ -54,7 +54,7 @@ body div#error h3 {
 }
 body div#error h3:before,
 body div#error h3:after {
-  content: 'P A R A';
+  content: 'F L A R E';
   position: absolute;
   top: -1px;
   left: 0;

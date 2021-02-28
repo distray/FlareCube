@@ -1,2 +1,3 @@
 # FlareCube
-FlareCube | The official FlareCube Network developer-interface and repos.
+
+FlareCube has officially been discontinued as of 2/28/21.
